@@ -1,0 +1,14 @@
+/Users/varseth/Documents/C# Projects/MadLibStory/MadLibStory/bin/Debug/net8.0/MadLibStory
+/Users/varseth/Documents/C# Projects/MadLibStory/MadLibStory/bin/Debug/net8.0/MadLibStory.deps.json
+/Users/varseth/Documents/C# Projects/MadLibStory/MadLibStory/bin/Debug/net8.0/MadLibStory.runtimeconfig.json
+/Users/varseth/Documents/C# Projects/MadLibStory/MadLibStory/bin/Debug/net8.0/MadLibStory.dll
+/Users/varseth/Documents/C# Projects/MadLibStory/MadLibStory/bin/Debug/net8.0/MadLibStory.pdb
+/Users/varseth/Documents/C# Projects/MadLibStory/MadLibStory/obj/Debug/net8.0/MadLibStory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/varseth/Documents/C# Projects/MadLibStory/MadLibStory/obj/Debug/net8.0/MadLibStory.AssemblyInfoInputs.cache
+/Users/varseth/Documents/C# Projects/MadLibStory/MadLibStory/obj/Debug/net8.0/MadLibStory.AssemblyInfo.cs
+/Users/varseth/Documents/C# Projects/MadLibStory/MadLibStory/obj/Debug/net8.0/MadLibStory.csproj.CoreCompileInputs.cache
+/Users/varseth/Documents/C# Projects/MadLibStory/MadLibStory/obj/Debug/net8.0/MadLibStory.dll
+/Users/varseth/Documents/C# Projects/MadLibStory/MadLibStory/obj/Debug/net8.0/refint/MadLibStory.dll
+/Users/varseth/Documents/C# Projects/MadLibStory/MadLibStory/obj/Debug/net8.0/MadLibStory.pdb
+/Users/varseth/Documents/C# Projects/MadLibStory/MadLibStory/obj/Debug/net8.0/MadLibStory.genruntimeconfig.cache
+/Users/varseth/Documents/C# Projects/MadLibStory/MadLibStory/obj/Debug/net8.0/ref/MadLibStory.dll
