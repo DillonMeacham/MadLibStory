@@ -12,3 +12,4 @@
 /Users/varseth/Documents/C# Projects/MadLibStory/MadLibStory/obj/Debug/net8.0/MadLibStory.pdb
 /Users/varseth/Documents/C# Projects/MadLibStory/MadLibStory/obj/Debug/net8.0/MadLibStory.genruntimeconfig.cache
 /Users/varseth/Documents/C# Projects/MadLibStory/MadLibStory/obj/Debug/net8.0/ref/MadLibStory.dll
+/Users/varseth/Documents/C# Projects/MadLibStory/MadLibStory/obj/Debug/net8.0/MadLibStory.sourcelink.json

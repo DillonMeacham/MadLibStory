@@ -16,7 +16,7 @@ namespace MadLibs
       Console.WriteLine("Starting Mad Lib...");
 
       // MadLib Title
-      string title = "The Protest";
+      string title = "Zero Sense";
 
       Console.WriteLine(title);
       // user input and variables:
